@@ -195,7 +195,7 @@ i{
 }
 
 
-@media (max-width:402px){
+@media (max-width:625px){
     
 .grid-layout{
     grid-template-columns: repeat(1, 1fr );
